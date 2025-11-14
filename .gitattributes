@@ -8,3 +8,4 @@
 add.txt filter=lfs diff=lfs merge=lfs -text
 0b0e01f2b18a57cb8f312642d0f131e419da76cf
 100m.zip filter=lfs diff=lfs merge=lfs -text
+encrypt.zip filter=lfs diff=lfs merge=lfs -text
